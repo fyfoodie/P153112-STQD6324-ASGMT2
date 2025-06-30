@@ -26,7 +26,7 @@ This analysis dives into the 2006 flight records from the [Airline On-Time Perfo
 ### 1. Delay Patterns
 - **Time of Day**: Morning flights (especially before 9am) tend to have the lowest average delays.
 - **Day of Week**: Tuesdays and Saturdays show better on-time performance.
-- **Month/Season**: January, April, and May have higher on-time percentages. Summer months (June, July) experience more delays.
+- **Month/Season**: April, May, and September have higher on-time percentages with lower average delays. Summer (June, July) and winter (December) experience more delays due to peak travel and weather issues.
 
 ### 2. Delay Factors
 - **Top Contributors**: Late Aircraft (37%), NAS (29%), and Carrier delays (28%) make up the bulk of delay minutes.
