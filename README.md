@@ -35,6 +35,8 @@ This analysis dives into the 2006 flight records from the [Airline On-Time Perfo
 ### 3. Cancellations
 - **Main Reasons**: Weather is a big contributor in early months; carrier-related cancellations are consistent throughout the year.
 - **Overlay View**: Stacked bar chart + scheduled flights line chart help contextualize monthly spikes.
+- **Q3.2 Output**: The analysis on whether cancellations correlate with specific airlines, airports, or time periods is based on an interactive map and seasonal bar chart. Since GitHub does not support interactive plots, a PNG snapshot of the output has been included in the repo at
+/plot_output/Q32_map_correlation.png for reference.
 
 ### 4. Problematic Routes
 - Routes like ASE–ORD (OO), ALB–JFK (OH), and SEA–HNL (UA) show repeated issues.
