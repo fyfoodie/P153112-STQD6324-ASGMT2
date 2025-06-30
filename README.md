@@ -5,8 +5,8 @@ Analysis of flight delays and cancellations using Hive, HDFS, and Python (Colab)
 
 Have you ever been stuck at an airport due to a delayed or cancelled flight and wondered if someone could’ve predicted it? This project explores that possibility using the *Airline On-Time Performance* dataset.
 
-## 📊 Project Overview
-This analysis dives into the 2006 flight records from the [Airline On-Time Performance](https://tinyurl.com/u8rzvdsx) dataset (Kaggle), with the goal to analyse when and why delays and cancellations happen — and which routes and carriers are the most problematic.
+## Project Overview
+This analysis dives into the 2006 flight records from the [Airline On-Time Performance](https://tinyurl.com/u8rzvdsx) dataset (Kaggle), with the goal to analyse when and why delays and cancellations happen and which routes and carriers are the most problematic.
 
 ---
 
