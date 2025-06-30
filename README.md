@@ -49,15 +49,13 @@ This analysis dives into the 2006 flight records from the [Airline On-Time Perfo
 ```bash
 .
 ├── README.md
-├── output/
-│   ├── q1_timeblock.csv
-│   ├── q2_delay_summary.csv
-│   ├── q3_cancellation_by_reason.csv
-│   └── ... (per-question data outputs)
+├── plot_output/
+│   ├── Q11_lowest_delays.png
+│   ├── Q12_ontime.png
+│   ├── Q13_months_ontime.png
+│   └── ... (per-question plot outputs)
 ├── colab_notebooks/
-│   ├── Q1_analysis.ipynb
-│   ├── Q2_analysis.ipynb
-│   └── ...
+│   ├── airline_analysis_2006.ipynb
 ```
 
 ---
